@@ -51,3 +51,14 @@ Program ini kompatibel dengan:
 ## 🎊 Selamat Menikmati!
 
 Program ini dibuat khusus untuk merayakan ulang tahun HDB dengan animasi yang menarik dan modern. Semoga membawa kebahagiaan dan keceriaan! 🎉
+
+© 2020 - 2025 𝘈𝘧𝘥𝘩𝘢𝘭 & 𝘋𝘏𝘈 𝘗𝘳𝘰𝘥𝘶𝘤𝘵𝘪𝘰𝘯  𝘈𝘭𝘭 𝘳𝘪𝘨𝘩𝘵𝘴 𝘳𝘦𝘴𝘦𝘳𝘷𝘦𝘥.
+
+
+
+#golang #terminalanimation #opensource #birthdayproject #goanimation 
+#clitool #goproject #animationtool #happybirthday #confettieffect 
+#opensourceproject #go2025 #gofun #terminalfun #funproject 
+#typewriteranimation #balloonanimation #birthdayanimation
+#githubtrending #creativecoding #gohackathon #birthdaycli
+
